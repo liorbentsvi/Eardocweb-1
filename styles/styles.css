@@ -2781,7 +2781,7 @@ padding-top: 6%;
 
 
 .flex-container-opening-flighters li {
-width: 24rem;
+width: 25rem;
     height: 16rem;
     border-radius: 10px;
     display: flex;
@@ -2957,8 +2957,8 @@ width: 85%;
 
 .chosenCat-image-sw {
     height: auto;
-    padding-right: 29%;
-    padding-top: 5%;
+    padding-right: 34%;
+    padding-top: 0%;
     max-width: 55%;
 }
 
