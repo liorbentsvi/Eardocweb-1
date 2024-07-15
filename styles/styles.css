@@ -2087,7 +2087,6 @@ display: none;
     list-style-type: none;
     flex-wrap: wrap;
     gap: 6rem;
-    padding-right: 2%;
     flex-direction: row;
     padding-left: 0;
     background-image: url(../images/researchBT.png);
