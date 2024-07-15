@@ -1409,7 +1409,7 @@ margin-top: 0%;
     padding-bottom: 5%;
     display: flex;
     list-style-type: none;
-    gap: 7rem; /* Adjust gap as needed */
+    gap: 3rem; /* Adjust gap as needed */
     flex-direction: row;
     padding-left: 3%;
    
@@ -1494,6 +1494,8 @@ margin-top: 0%;
     outline: none;
     transition: 0.4s;
     padding-bottom: 2%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     
   }
 
